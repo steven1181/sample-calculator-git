@@ -10,6 +10,8 @@ public class CalculatorExecute {
 
         int subtraction = c.subtraction(7,1);
         System.out.println("c.subtraction(7,1) = " + subtraction);
+
+        System.out.println("== It is a change ==");
     }
 
 }
